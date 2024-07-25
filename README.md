@@ -95,6 +95,4 @@ npm run set-message
 
 ### Finished.
 
-Github  : [azysatoru](https://github.com/azysatoru)
-
-Address Testnet Swisstronik 0x08dB0a0e75D98A436fa6141E56e5a29786528fb3
+Testnet Address Swisstronik 0x08dB0a0e75D98A436fa6141E56e5a29786528fb3
